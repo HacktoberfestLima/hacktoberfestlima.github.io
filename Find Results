@@ -1,0 +1,104 @@
+Searching 55 files for "#header"
+
+/Users/carlosgabriel/Documents/FirebasePeru/hacktoberfestlima.github.io/index.html:
+   80        </nav><!-- #nav-menu-container -->
+   81      </div>
+   82:   </header><!-- #header -->
+   83  
+   84    <!--==========================
+
+/Users/carlosgabriel/Documents/FirebasePeru/hacktoberfestlima.github.io/css/style.css:
+  149  --------------------------------------------------------------*/
+  150  
+  151: #header {
+  152    height: 90px;
+  153    padding: 25px 0;
+  ...
+  160  }
+  161  
+  162: #header.header-scrolled,
+  163: #header.header-fixed {
+  164    background: rgba(6, 12, 34, 0.98);
+  165    height: 100px;
+  ...
+  168  }
+  169  
+  170: #header #logo h3 {
+  171    font-size: 24px;
+  172    margin: 0;
+  ...
+  179  }
+  180  
+  181: #header #logo h3 span {
+  182    color: #FF00AA;
+  183  }
+  184  
+  185: #header #logo h3 a,
+  186: #header #logo h3 a:hover {
+  187    color: #fff;
+  188  }
+  189  
+  190: #header #logo img {
+  191    padding: 0;
+  192    margin: 0;
+  ...
+ 1615  
+ 1616  @media (max-width: 1199px) {
+ 1617:   #header .container {
+ 1618      max-width: 100%;
+ 1619    }
+ ....
+ 1625  
+ 1626  @media (max-width: 1115px) {
+ 1627:   #header #logo h1 {
+ 1628      font-size: 28px;
+ 1629      line-height: 28px;
+ ....
+ 1632  
+ 1633  @media (max-width: 1045px) {
+ 1634:   #header #logo h1 {
+ 1635      font-size: 24px;
+ 1636      line-height: 24px;
+ ....
+ 1639  
+ 1640  @media (max-width: 991px) {
+ 1641:   #header {
+ 1642      background: rgba(6, 12, 34, 0.98);
+ 1643      height: 70px;
+ ....
+ 1646    }
+ 1647  
+ 1648:   #header #logo h1 {
+ 1649      font-size: 36px;
+ 1650      line-height: 36px;
+ ....
+ 1709  
+ 1710  @media (max-width: 440px) {
+ 1711:   #header #logo h1 {
+ 1712      font-size: 24px;
+ 1713      line-height: 24px;
+
+/Users/carlosgabriel/Documents/FirebasePeru/hacktoberfestlima.github.io/js/main.js:
+   17    $(window).scroll(function() {
+   18      if ($(this).scrollTop() > 100) {
+   19:       $('#header').addClass('header-scrolled');
+   20      } else {
+   21:       $('#header').removeClass('header-scrolled');
+   22      }
+   23    });
+   24  
+   25    if ($(window).scrollTop() > 100) {
+   26:     $('#header').addClass('header-scrolled');
+   27    }
+   28  
+   ..
+   98          var top_space = 0;
+   99  
+  100:         if ($('#header').length) {
+  101:           top_space = $('#header').outerHeight();
+  102  
+  103:           if( ! $('#header').hasClass('header-fixed') ) {
+  104              top_space = top_space - 20;
+  105            }
+
+21 matches across 3 files
