@@ -1,6 +1,6 @@
 # Hacktoberfest NH Website
 
-![hacktoberfestnh](img/hacktoberfestnh.png)
+![hacktoberfestnh](img/hacktoberfestlima.jpeg)
 
 https://hacktoberfestnh.github.io
 
