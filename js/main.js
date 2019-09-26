@@ -101,7 +101,7 @@ jQuery(document).ready(function( $ ) {
           top_space = $('#header').outerHeight();
 
           if( ! $('#header').hasClass('header-fixed') ) {
-            top_space = top_space - 10;
+            top_space = top_space;
           }
         }
 
