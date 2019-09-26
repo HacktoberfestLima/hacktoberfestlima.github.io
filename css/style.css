@@ -162,7 +162,7 @@ h6 {
 #header.header-scrolled,
 #header.header-fixed {
   background: rgba(6, 12, 34, 0.98);
-  height: 70px;
+  height: 100px;
   padding: 15px 0;
   transition: all 0.5s;
 }
