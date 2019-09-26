@@ -1,8 +1,8 @@
-# Hacktoberfest NH Website
+# Hacktoberfest 2019 Lima
 
-![hacktoberfestnh](img/hacktoberfestlima.jpeg)
+![hacktoberfestlima](img/hacktoberfestlima.jpeg)
 
-https://hacktoberfestnh.github.io
+https://hacktoberfestlima.github.io
 
 - [Event release text](docs/RELEASE.md)
 - [Event release text (quoted)](docs/RELEASE-quoted.md)
