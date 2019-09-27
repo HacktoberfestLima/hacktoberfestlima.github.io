@@ -530,6 +530,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #A11EC6;
 }
 
+#fluid img {
+  width: auto;
+  height: 100%;
+}
+
 #intro p {
   color: #ebebeb;
   font-weight: 700;
