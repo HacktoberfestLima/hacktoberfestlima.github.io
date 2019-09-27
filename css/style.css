@@ -530,7 +530,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #A11EC6;
 }
 
-#fluid img {
+.fluid {
   width: auto;
   height: 100%;
 }
