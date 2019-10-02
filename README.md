@@ -4,7 +4,7 @@
 
 https://hacktoberfestlima.github.io
 
-# **Quieres hacer un Pull Request / You want to make a Pull request**
+# **Quieres hacer un Pull Request / Want to make a Pull request**
 
 * Haz fork del repositorio.
 * Modifica el HTML y agrega tu nombre dentro de la sección participantes. 
