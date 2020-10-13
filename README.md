@@ -1,6 +1,6 @@
-# Hacktoberfest 2019 Lima
+# Hacktoberfest 2020 Lima
 
-![hacktoberfestlima](img/hacktoberfestlima.jpeg)
+![hacktoberfestlima](img/hacktoberfestlima.png)
 
 https://hacktoberfestlima.github.io
 
